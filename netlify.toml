@@ -4,4 +4,4 @@
 
 [[plugins]]
   package = "netlify-plugin-cypress"
-  "@netlify/plugin-nextjs"
+  package = "@netlify/plugin-nextjs"
