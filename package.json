@@ -4,6 +4,7 @@
   "description": "NextJS Version of Material Kit React by Creative Tim (https://creative-tim.com)",
   "main": "index.js",
   "scripts": {
+    "export": "next export",
     "predeploy": "next build && next export",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "next",
