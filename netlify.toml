@@ -1,6 +1,7 @@
 [build]
   command = "next build && next export"
-  publish = ".next"
+  publish = "out"
 
 [[plugins]]
   package = "netlify-plugin-cypress"
+  "@netlify/plugin-nextjs"
