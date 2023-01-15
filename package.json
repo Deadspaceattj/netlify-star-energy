@@ -35,6 +35,7 @@
   },
   "homepage": "https://demos.creative-tim.com/nextjs-material-kit",
   "dependencies": {
+    "cypress": "^10.0.3",
     "@material-ui/core": "4.11.4",
     "@material-ui/icons": "4.11.2",
     "classnames": "2.3.1",
@@ -55,5 +56,7 @@
   "peerDependencies": {
     "react": "latest",
     "react-dom": "latest"
+  },"devDependencies": {
+    "@netlify/plugin-nextjs": "^4.18.0"
   }
 }
