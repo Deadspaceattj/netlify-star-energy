@@ -27,3 +27,5 @@ yarn-error.log*
 /dist
 /.next
 pnpm-lock.yaml
+# Local Netlify folder
+.netlify
